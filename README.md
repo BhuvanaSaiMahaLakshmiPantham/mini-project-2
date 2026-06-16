@@ -1,25 +1,26 @@
-// Mini project 2 -Farmer Management System
+# Mini Project 2 - Farmer Management API
 
-This project is a simple Farmer Management System developed using Node.js and Express.js.
+A simple REST API built with Node.js and EXpress.js to get farmers data.
 
-Features
+### Features
+- Get list of all farmers
+- Returns farmer id,name and crop details
 
-- Add Farmer
-- View Farmers
-- Update Farmer
-- Delete Farmer
 
-Technologies Used
-
-- HTML
-- CSS
-- JavaScript
+### Technologies Used
 - Node.js
 - Express.js
 
+### How to Run
+- git clone https://github.com/BhuvanaSaiMahaLakshmiPantham/mini-project-2
+- cd mini-project-2
+- npm install
+- npm start
+- Then open browser and visit: http://localhost:5000/farmers
+
 Author
 
-BhuvanaSaiMahaLakshmiPantham
+Bhuvana Sai Maha Lakshmi Pantham
 
 Team name
 Dynamic Developers
