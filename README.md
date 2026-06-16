@@ -18,7 +18,7 @@ A simple REST API built with Node.js and EXpress.js to get farmers data.
 - npm start
 - Then open browser and visit: http://localhost:5000/farmers
 
-Author
+### Author
 
 Bhuvana Sai Maha Lakshmi Pantham
 
